@@ -5,6 +5,6 @@ void main() {
   mylist.add(80);
   print(mylist);
   mylist.remove(80);
-  print(my list);
+  print(mylist);
 }  
 
